@@ -4,3 +4,4 @@ qdrant-client
 streamlit
 streamlit-audiorecorder
 pydub
+httpx==0.27.0
